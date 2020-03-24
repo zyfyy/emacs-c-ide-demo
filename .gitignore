@@ -2,3 +2,5 @@ ede-projects.el
 projectile-bookmarks.eld
 semanticdb
 elpa
+auto-save-list
+projectile.cache
